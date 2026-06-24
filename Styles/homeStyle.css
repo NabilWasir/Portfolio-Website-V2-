@@ -1,0 +1,49 @@
+
+/*home*/
+
+.name {
+  font-style: italic;
+  padding: 80px 0 0 60px;
+}
+
+.about {
+  padding: 20px 60px 0 60px;
+  color: var(--color-accent);
+}
+
+.home-line {
+  width: 150px;
+  color: var(--color-line);
+  margin: 20px 0 0 60px;
+  border-bottom: 0;
+  border-style: dashed;
+}
+
+.home-description {
+  margin: 20px 60px 0 60px;
+  line-height: 24px;
+}
+
+hr {
+  color: var(--color-line);
+  border-bottom: 0;
+}
+
+@media screen and (min-width: 1024px) {
+  .name {
+    padding: 80px 150px 0 150px;
+  }
+
+  .about {
+    padding: 20px 150px 0 150px;
+  }
+
+  .home-description {
+    margin: 20px 150px 0 150px;
+  }
+
+  .home-line {
+    width: 690px;
+    margin: 20px 150px 0 150px;
+  }
+}

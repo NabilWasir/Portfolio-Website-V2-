@@ -1,0 +1,44 @@
+
+/*writings*/
+
+.writings {
+  padding: 80px 0 0 60px;
+  height: 1500px;
+}
+
+.writings-headline {
+  font-style: italic;
+}
+
+.writing-sub-headline {
+  font-size: 1.1rem;
+  padding: 20px 60px 0 0;
+}
+
+.writing-line {
+  color: var(--color-line);
+  border-style: dashed;
+  width: 246px;
+  height: 0;
+  margin: 20px 60px 0 0;
+}
+
+.write-down h3 {
+  padding: 35px 60px 0 0;
+}
+
+.write-down p {
+  padding: 10px 60px 0 0;
+}
+
+@media screen and (min-width: 1024px) {
+  .writings {
+    padding: 80px 150px 0 150px;
+  }
+
+  .writing-line {
+    width: 450px;
+  }
+}
+
+

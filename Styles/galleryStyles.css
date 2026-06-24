@@ -1,0 +1,40 @@
+
+/*gallery*/
+
+.gallery {
+  padding: 30px 0 70px 0;
+}
+
+.gallery-container {
+  width: 335px;
+  height: 500px;
+}
+
+.gallery-image {
+  width: 335px;
+  height: 500px;
+  object-fit: cover;
+  padding: 0 0 10px 0;
+}
+
+@media screen and (min-width: 1024px) {
+  .gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 80px 0 80px 0;
+  }
+
+  .gallery-container {
+    width: 600px;
+    height: 1000px;
+  }
+
+  .gallery-image {
+    padding: 10px 10px;
+    width: 450px;
+    height: 650px;
+  }
+}
+
