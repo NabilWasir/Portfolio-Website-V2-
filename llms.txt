@@ -1,0 +1,20 @@
+# Nabil Wasir - Web Developer Portfolio
+
+## About
+Web developer learning HTML, CSS, JavaScript, C++ and Java. Creating websites that make people feel something.
+
+## Pages
+- Home: https://nabilwasir.netlify.app/index.html
+- Projects: https://nabilwasir.netlify.app/Pages/project.html
+- Quotes: https://nabilwasir.netlify.app/Pages/writing.html
+- Gallery: https://nabilwasir.netlify.app/Pages/gallery.html
+- Words: https://nabilwasir.netlify.app/Pages/word.html
+
+## Social Links
+- GitHub: https://github.com/NabilWasir
+- Frontend Mentor: https://www.frontendmentor.io/profile/NabilWasir
+- Codeforces: https://codeforces.com/profile/Nabil_Wasir
+- Beecrowd: https://judge.beecrowd.com/en/profile/1178637
+- Facebook: https://www.facebook.com/nabilwasir/
+- Twitter: https://twitter.com/nab1l_w4sir
+- Instagram: https://www.instagram.com/raisa._.rahin/
